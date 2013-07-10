@@ -1,0 +1,4 @@
+stuck on total price.  Trying to access the 'data-price' attribute of the selected option..
+so far I've figured out that calling 'this.selectedOptions' in console will give me 
+an array of the selected fucking option.  Data-price is included in this array and I can not 
+figure out how to access it.. fuck..shit.
